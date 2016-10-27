@@ -13,3 +13,9 @@ polls/view.py -> get template (index.html)
 settings.py -> installed_app add polls
 
 
+bash:
+python manager.py runserver 
+
+on web_broswer:
+http://127.0.0.1:8000/polls/
+(ip you assign)

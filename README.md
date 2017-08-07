@@ -1,12 +1,11 @@
 # minimum_django
 
-
-=======
-add a ajax example (with jquery)
-- html form
-
-python dict render template
-
+a naive hello world example with css bg and ajax post example
+major files
+- polls/template/index.html
+- polls/static/polls/style.css
+- polls/views.py
+- polls/urls.py
 
 bash:
 python manage.py runserver 
